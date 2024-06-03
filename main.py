@@ -17,6 +17,9 @@ screen = pygame.display.set_mode((WIDTH,HEIGHT))
 
 clock = pygame.time.Clock()
 
+def draw_grid(positions):
+    pass
+
 def main():
     running = True 
     
